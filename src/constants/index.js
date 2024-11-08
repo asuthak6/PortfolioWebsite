@@ -1,17 +1,7 @@
-export const HERO_CONTENT = `As a third-year Software Engineering student at Western University, I am dedicated to advancing my expertise 
-in technology and innovation. My strong interest in business complements my technical pursuits, as I strive to integrate engineering principles 
-with business acumen. I am enthusiastic about connecting with professionals who share my vision and passion for the intersection of technology 
-and business. I aim to leverage my skills and knowledge to develop innovative solutions in this dynamic field. If you are interested in connecting,
- please feel free to reach out.`;
+export const HERO_CONTENT = `I’m a third-year Software Engineering student at Western University, passionate about merging technical expertise with business insight to create meaningful, innovative solutions. My goal is to apply engineering principles strategically to drive advancements in technology and business. Let’s connect if you share this vision and are interested in exploring synergies in tech and business.`; 
 
-export const ABOUT_TEXT = `As a third-year Software Engineering student at Western University, I've developed a strong foundation in programming, 
-system design, and problem-solving. My journey into software engineering began with a fascination for technology's potential to solve real-world problems
- and make a meaningful impact. Over time, I've combined this technical pursuit with a growing interest in business, recognizing the power of merging engineering 
- principles with strategic thinking. Throughout my studies, I've engaged in projects that push me to learn quickly and adapt, whether in programming, data analysis, 
- or project management. I'm particularly passionate about working in teams to ideate and conceptualize projects, learning from diverse perspectives, and developing 
-innovative solutions. Outside of academics, I enjoy attending social events, keeping up with current affairs, expanding my business knowledge, and continuously 
-learning new technologies and concepts. I'm eager to connect with professionals who share my enthusiasm for the intersection of technology and business, 
-and I'm committed to leveraging my skills to contribute to impactful projects in the tech industry.`;
+export const ABOUT_TEXT = `As a Software Engineering student at Western University, I’ve built a solid foundation in programming, system design, and problem-solving. My journey is driven by a deep curiosity for using technology to tackle real-world challenges and make a positive impact. This technical focus is complemented by a keen interest in business, recognizing the value of integrating engineering with strategic thinking. Through various projects, I’ve sharpened my skills in programming, data analysis, and team collaboration. I thrive in dynamic environments, value diverse perspectives, and enjoy working on innovative, impactful solutions. Outside of academics, I’m committed to broadening my understanding of business and current events, as well as continuously learning new technologies. I’m excited to connect with like-minded professionals and contribute to forward-thinking projects at the intersection of technology and business.`; 
+
 
 export const EXPERIENCES = [
     {
